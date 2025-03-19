@@ -1,0 +1,1 @@
+[{"title": "new2", "author": "sabah", "year": 2023, "genre": "good", "read_status": false}, {"title": "new3", "author": "salah", "year": 2025, "genre": "static", "read_status": true}, {"title": "QURAN", "author": "ALLAH", "year": "1500 YEARS AGO", "genre": "ADVICE", "read_status": true}, {"title": "new4", "author": "saif", "year": "1980", "genre": "story", "read_status": true}]
